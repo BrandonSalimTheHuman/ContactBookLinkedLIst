@@ -139,6 +139,7 @@ public class ContactBookLinkedList {
                                     delete_choice = scanner.nextInt();
                                 }
                             }
+                            System.out.print(scanner.nextLine());
                             break;
                     }
                     break;
